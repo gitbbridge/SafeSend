@@ -1,0 +1,1 @@
+"""SafeSend desktop application package."""
